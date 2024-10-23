@@ -1,4 +1,5 @@
-Chatbot Agents
+**Chatbot Agents**
+
 This repository contains a Python-based tool that allows for interaction with multiple AI personas who can converse with each other and the user in a three-way conversational setup. The tool is built using LangChain, OpenAI APIs, and a few other libraries to provide features like weather and time information.
 
 The concept behind this tool is to create a system that can simulate human-like companionship for use cases such as assisting lonely or isolated individuals, with the agents discussing topics, answering questions, and interacting in a dynamic and natural way.
