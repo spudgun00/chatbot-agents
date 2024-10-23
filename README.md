@@ -1,6 +1,3 @@
-Here’s the entire README file formatted in markdown:
-
-```markdown
 # Chatbot Agents
 
 This repository contains a Python-based tool that allows for interaction with multiple AI personas who can converse with each other and the user in a three-way conversational setup. The tool is built using **LangChain**, **OpenAI APIs**, and a few other libraries to provide features like weather and time information.
